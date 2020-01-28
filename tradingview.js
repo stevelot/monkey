@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Disable annoying sorting
 // @author       You
-// @match        https://*.tradingview.com/*
+// @match        https://*.tradingview.com/chart/*/
 // @grant        GM_addStyle
 
 // ==/UserScript==
